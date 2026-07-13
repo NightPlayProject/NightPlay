@@ -1,5 +1,5 @@
 NightPlay Beta License Agreement
-Version 0.0.2
+Version 0.0.3
 
 NightPlay is proprietary software. Copyright in NightPlay-owned code, artwork,
 branding, and documentation remains with NightPlay. Installing or using this beta
@@ -15,8 +15,8 @@ Notices are installed in the licenses folder.
 
 This software uses libraries from the FFmpeg project under the LGPLv2.1-or-later.
 The corresponding FFmpeg 8.1.2 source, the pinned vcpkg port and patches, and build
-configuration are published with the NightPlay 0.0.2 release at:
-https://github.com/NightPlayProject/NightPlay/releases/tag/v0.0.2
+configuration are published with the NightPlay 0.0.3 release at:
+https://github.com/NightPlayProject/NightPlay/releases/tag/v0.0.3
 
 Nothing in this agreement limits rights granted by a third-party license or rights
 that cannot lawfully be restricted. Compatible replacement FFmpeg libraries may be
