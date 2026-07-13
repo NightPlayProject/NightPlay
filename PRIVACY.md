@@ -1,4 +1,4 @@
-# NightPlay 0.0.1 privacy information
+# NightPlay 0.0.2 privacy information
 
 NightPlay stores settings, cache data, thumbnails, and diagnostic information
 locally under the current Windows user profile. Clips, recordings, screenshots,
